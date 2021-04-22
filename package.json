@@ -1,0 +1,23 @@
+{
+  "name": "scrape-with-pptr",
+  "version": "1.0.0",
+  "description": "Using puppeteer to perform web scraping.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaWarrior/scrape-with-pptr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeaWarrior/scrape-with-pptr/issues"
+  },
+  "homepage": "https://github.com/PeaWarrior/scrape-with-pptr#readme",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
