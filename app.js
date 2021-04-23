@@ -2,24 +2,36 @@ const puppeteer = require('puppeteer');
 const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/490116/490560';
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   await page.goto(URL, { waitUntil: 'networkidle2' });
-  const data = await page.evaluate(() => {
-    let cereals = [];
-    const nodes = document.querySelectorAll('span.responsivegriditem__title');
+  const cerealLinks = await page.evaluate(() => {
+    const links = [];
+    const nodes = document.querySelectorAll('ul#productResults > li > a');
     nodes.forEach(node => {
-      const nodeData = node.textContent.trim().split(', ');
-      const cereal = {
-        name: nodeData[0],
-        size: nodeData[1],
-      };
-      cereals.push(cereal)
+      if (!node['href'].includes('h-e-b-')) links.push(node['href']);
     });
-    cereals = cereals.filter(cereal => !cereal.name.includes('H‑E‑B'));
-    return cereals;
+    return links;
   });
-  console.log(data);
+
+  const cereals = [];
+  for (link of cerealLinks) {
+    await page.goto(link, { waitUntil: 'networkidle2' });
+    const data = await page.evaluate(() => {
+      const cereal = {};
+      const name = document.querySelector('h1').innerText;
+      const size = document.querySelector('div.packing-options').innerText;
+      const price = document.querySelector('span#addToCartPrice').innerText;
+      const description = document.querySelector('p').innerText;
+
+      cereal.name = name;
+      cereal.size = size;
+      cereal.price = price;
+      cereal.description = description;
+    })
+    cereals.push(data);
+  }
+  console.log(cereals);
 
   await browser.close();
 })();
