@@ -9,13 +9,13 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
     const links = [];
     const nodes = document.querySelectorAll('ul#productResults > li > a');
     nodes.forEach(node => {
-      if (!node['href'].includes('h-e-b-')) links.push(node['href']);
+      if (!node['href'].includes('h-e-b-') && !node['href'].includes('malt-o-meal')) links.push(node['href']);
     });
     return links;
   });
 
   const cereals = [];
-  for (link of cerealLinks.slice(0, 1)) {
+  for (link of cerealLinks.slice(0, 3)) {
     await page.goto(link, { waitUntil: 'networkidle2' });
     const data = await page.evaluate(() => {
       const cereal = {};
@@ -24,14 +24,17 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
       const size = document.querySelector('div.packing-options').innerText.trim();
       const price = document.querySelector('span#addToCartPrice').innerText.trim();
       const description = document.querySelector('p').innerText.trim();
-      const nutritionFacts = document.querySelector('li.liNutrition > div.content').children;
-      const servingsPerContainer = nutritionFacts[0].innerText.trim().split('\n')[0];
-      const servingSize = nutritionFacts[1].querySelector('tbody > tr > td.val').innerText.trim();
-      const details = nutritionFacts[2].querySelector('table.details-xtd').children;
-      // const details = nutritionFacts[2].querySelectorAll('tr');
+      const servingsPerContainer = document.querySelector('div.content > p').innerText.trim().split('\n')[0];
+      const servingSize = document.querySelector('table.serving-size > tbody > tr > td.val').innerText.trim();
+      const calorieDetails = document.querySelector('table.details-single').querySelectorAll('.val');
+      const nutritionFactDetails = document.querySelector('table.details-xtd').children;
+      const vitamins = document.querySelector('table.vitamins > tbody').children;
 
-      const nF = []
-      details.forEach(node => {
+      const calories = parseInt(calorieDetails[0].innerText);
+      const caloriesFromFat = parseInt(calorieDetails[1].innerText);
+
+      const details = [];
+      nutritionFactDetails.forEach(node => {
         const row = node.querySelector('tr').children;
         const nutrient = row[0].innerText.replace(/\s+/g, " ").trim();
         const value = row[1].innerText.trim();
@@ -40,13 +43,13 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         detail[nutrient] = value;
 
         if (node.nodeName === 'TBODY') {
-          if (nF[nF.length - 1].sub) {
-            nF[nF.length - 1].sub.push(detail);
+          if (details[details.length - 1].sub) {
+            details[details.length - 1].sub.push(detail);
           } else {
-            nF[nF.length - 1].sub = [detail]
+            details[details.length - 1].sub = [detail];
           }
         } else {
-          nF.push(detail);
+          details.push(detail);
         };
       });
 
@@ -58,7 +61,9 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
       cereal.nutritionFacts = {
         servingsPerContainer: servingsPerContainer,
         servingSize: servingSize,
-        details: nF,
+        calories: calories,
+        caloriesFromFat: caloriesFromFat,
+        details: details,
       }
 
       return cereal;
@@ -66,9 +71,6 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
     cereals.push(data);
   }
   console.log(cereals);
-  console.log(cereals[0].nutritionFacts.details);
-  console.log(cereals[0].nutritionFacts.details[0].sub);
-  console.log(cereals[0].nutritionFacts.details[4].sub);
 
   await browser.close();
 })();
