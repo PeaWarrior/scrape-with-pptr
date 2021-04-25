@@ -21,14 +21,14 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
       const cereal = {};
       const name = document.querySelector('h1').innerText.trim();
       const img = document.querySelector('img.pdp-mobile-image').src.split('?')[0];
-      const size = document.querySelector('div.packing-options').innerText.trim();
+      const weight = document.querySelector('div.packing-options').innerText.trim();
       const price = document.querySelector('span#addToCartPrice').innerText.trim();
       const description = document.querySelector('p').innerText.trim();
       const servingsPerContainer = document.querySelector('div.content > p').innerText.trim().split('\n')[0];
       const servingSize = document.querySelector('table.serving-size > tbody > tr > td.val').innerText.trim();
       const calorieDetails = document.querySelector('table.details-single').querySelectorAll('.val');
       const nutritionFactDetails = document.querySelector('table.details-xtd').children;
-      const vitamins = document.querySelector('table.vitamins > tbody').children;
+      const vitaminDetails = document.querySelector('table.vitamins > tbody').children;
 
       const calories = parseInt(calorieDetails[0].innerText);
       const caloriesFromFat = parseInt(calorieDetails[1].innerText);
@@ -40,7 +40,8 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         const value = row[1].innerText.trim();
 
         const detail = {};
-        detail[nutrient] = value;
+        detail.name = nutrient;
+        detail.dv = value;
 
         if (node.nodeName === 'TBODY') {
           if (details[details.length - 1].sub) {
@@ -53,8 +54,20 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         };
       });
 
+      const vitamins = [];
+      vitaminDetails.forEach(node => {
+        const row = node.children;
+        const vitamin = row[0].innerText.replace(/\s+/g, " ").trim();
+        const value = row[1].innerText.trim();
+
+        const detail = {};
+        detail.name = vitamin;
+        detail.dv = value;
+        vitamins.push(detail);
+      });
+
       cereal.name = name;
-      cereal.size = size;
+      cereal.weight = weight;
       cereal.price = price;
       cereal.description = description;
       cereal.img = img;
@@ -64,13 +77,16 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         calories: calories,
         caloriesFromFat: caloriesFromFat,
         details: details,
+        vitamins: vitamins,
       }
 
       return cereal;
     })
     cereals.push(data);
   }
-  console.log(cereals);
+  console.log(cereals)
+  // console.log(cereals[0].nutritionFacts.details[0]);
+  // console.log(cereals[0].nutritionFacts.details[0].sub);
 
   await browser.close();
 })();
