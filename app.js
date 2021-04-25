@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/490116/490560';
 
 (async () => {
@@ -15,7 +16,7 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
   });
 
   const cereals = [];
-  for (link of cerealLinks.slice(0, 3)) {
+  for (link of cerealLinks) {
     await page.goto(link, { waitUntil: 'networkidle2' });
     const data = await page.evaluate(() => {
       const cereal = {};
@@ -78,15 +79,14 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         caloriesFromFat: caloriesFromFat,
         details: details,
         vitamins: vitamins,
-      }
+      };
 
       return cereal;
-    })
+    });
     cereals.push(data);
-  }
-  console.log(cereals)
-  // console.log(cereals[0].nutritionFacts.details[0]);
-  // console.log(cereals[0].nutritionFacts.details[0].sub);
+  };
+
+  fs.writeFile('data.json', JSON.stringify(cereals), { flag: 'w' }, err => console.log(err));
 
   await browser.close();
 })();
