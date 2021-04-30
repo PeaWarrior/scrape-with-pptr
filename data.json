@@ -1,0 +1,2332 @@
+[
+  {
+    "name": "Cap'n Crunch Crunch Berries Cereal",
+    "weight": "13 oz",
+    "price": "$2.76",
+    "description": "Satisfy your craving for CRUNCH with Cap'n Crunch Crunch Berries! Each spoonful combines sweetened corn and oat biscuits with delicious fruit flavored berry shapes. Fortified with seven essential vitamins and minterals, it provides a balanced breakfast you can feel good about eating when paried with low-fat milk and fruit or a glass of 100% juice.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000103572",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 10",
+      "servingSize": "1.00 cup(0g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 2g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 270mg", "dv": "12%" },
+        { "name": "Potassium 60mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 32g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber <1g", "dv": "3%" },
+            { "name": "Total Sugars 16g", "dv": "" },
+            { "name": "Added Sugars 16g", "dv": "32%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Iron", "dv": "40%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate DFE", "dv": "50%" },
+        { "name": "Calcium", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Quaker Brown Sugar Oatmeal Squares Cereal",
+    "weight": "14.5 oz",
+    "price": "$2.98",
+    "description": "Don't worry, cold cereal lovers – Quaker Oats has got something deliciously crunchy and healthy for you. Our Brown Sugar Oatmeal Squares are made from whole grain Quaker Oats. With the rich sweetness of brown sugar, you might never suspect they're good for you.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000103570",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 7",
+      "servingSize": "1.00 cup(56g)",
+      "calories": 210,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 3g",
+          "dv": "4%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 1g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 190mg", "dv": "8%" },
+        { "name": "Potassium 200mg", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 44g",
+          "dv": "16%",
+          "sub": [
+            { "name": "Dietary Fiber 5g", "dv": "17%" },
+            { "name": "Soluble Fiber 2g", "dv": "" },
+            { "name": "Total Sugars 9g", "dv": "" },
+            { "name": "Added Sugars 9g", "dv": "18%" }
+          ]
+        },
+        { "name": "Protein 6g", "dv": "7%" }
+      ],
+      "vitamins": [
+        { "name": "Iron", "dv": "90%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate DFE", "dv": "50%" },
+        { "name": "Calcium", "dv": "2%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Vitamin E", "dv": "15%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Magnesium", "dv": "15%" },
+        { "name": "Phosphorus", "dv": "15%" },
+        { "name": "Vitamin D", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Malt-O-Meal Fruity Dyno-Bites Cereal Super Size!",
+    "weight": "42 oz",
+    "price": "$6.94",
+    "description": "They’re fruity, fantastic and full of flavor. Your whole family will love the crispy texture and delicious fruit flavors in Fruity Dyno-Bites. Full of wholesome goodness and numerous vitamins and minerals, this rice cereal will disappear as soon as a spoon comes near.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001219157",
+    "nutritionFacts": {
+      "servingsPerContainer": "44.0000",
+      "servingSize": "0.75 cup(27g)",
+      "calories": 110,
+      "caloriesFromFat": 5,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "1g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Polyunsaturated Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "170mg" },
+        { "name": "Potassium", "dv": "20mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "24g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "0g" },
+            { "name": "Sugars", "dv": "11g" }
+          ]
+        },
+        { "name": "Protein", "dv": "1g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "15%" },
+        { "name": "Vitamin C", "dv": "0%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Folate ", "dv": "25%" }
+      ]
+    }
+  },
+  {
+    "name": "Malt-O-Meal Cinnamon Toasters Cereal Super Size!",
+    "weight": "33 oz",
+    "price": "$5.65",
+    "description": "Fill your bowl with these cinnamon-y sweet, toasty squares. Wholesome, oven-puffed Cinnamon Toasters® cereal is a perfectly sweet breakfast treat or anytime snack. Warning: The contents of this package are delicious and easy on your wallet!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000739899",
+    "nutritionFacts": {
+      "servingsPerContainer": "31.0000",
+      "servingSize": "0.75 cup(30g)",
+      "calories": 130,
+      "caloriesFromFat": 30,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "3.5g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0.5g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Polyunsaturated Fat", "dv": "1g" },
+            { "name": "Monounsaturated Fat", "dv": "1g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "140mg" },
+        { "name": "Potassium", "dv": "45mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "24g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "1g" },
+            { "name": "Sugars", "dv": "10g" },
+            { "name": "Other Carbohydrate", "dv": "13g" }
+          ]
+        },
+        { "name": "Protein", "dv": "1g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Iron", "dv": "50%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Copper", "dv": "2%" },
+        { "name": "Magnesium", "dv": "2%" },
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Phosphorus", "dv": "8%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Zinc", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Folate ", "dv": "50%" },
+        { "name": "Phosphorous", "dv": "8%" }
+      ]
+    }
+  },
+  {
+    "name": "Annie's Homegrown Organic Cocoa Bunnies Cereal",
+    "weight": "10 oz",
+    "price": "$3.38",
+    "description": "Annie's Organic Cocoa Bunnies is a scrumptious oat, corn and rice cereal with crunchy cocoa goodness packed into every bite. We source organic Fair Trade Certified cocoa for extra goodness, and our bunnies are certified organic, making them a sweet spot parents and kids can agree on for breakfast & beyond. Say good morning to a bowl of the good stuff and adios! to artificial flavors, synthetic colors, preservatives and high fructose corn syrup.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002024490",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 8",
+      "servingSize": "1.00 cup(36g)",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 2g",
+          "dv": "3%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 160mg", "dv": "7%" },
+        { "name": "Potassium 100mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 29g",
+          "dv": "11%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "9%" },
+            { "name": "Total Sugars 11g", "dv": "" },
+            { "name": "Added Sugars 10g", "dv": "21%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Organic", "dv": "0%" },
+        { "name": "Iron", "dv": "6%" },
+        { "name": "Calcium", "dv": "8%" }
+      ]
+    }
+  },
+  {
+    "name": "Annie's Homegrown Organic Cinnabunnies Cinnamon Cereal",
+    "weight": "10 oz",
+    "price": "$3.38",
+    "description": "Meet the newest member of the bunny breakfast club: Annie’s Organic Cinnabunnies Cereal! That’s right, our newest cereal is certified organic, gluten-free, and made with hoppy ingredients like whole grains and chickpea flour. Cinnabunnies come in a fun bunny shape and pack in a yummy cinnamon taste that everybunny in the family will love. Hop to your store and get spooning now!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002179906",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 7",
+      "servingSize": "1.00 cup(38g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 170mg", "dv": "7%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 32g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 1g", "dv": "5%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "23%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Organic", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Calcium", "dv": "8%" },
+        { "name": "Iron", "dv": "2%" },
+        { "name": "Kosher", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Sweet Home Farm Honey Nut with Almonds Granola",
+    "weight": "24 oz",
+    "price": "$4.38",
+    "description": "For over two decades, we've been making our simply delicious granola with only the finest whole grains, fruits, nuts, and simple sweeteners. Our ingredients are grown and made without GMOs, and never have preservatives, artificial flavors or artificial colors. Then we pack as much goodness as we can into our signature \"milk carton\" package. So go ahead, grab a carton and feel good about bringing our honestly good, delicious granola into your home.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000687749",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 12",
+      "servingSize": "0.50 cup(55g)",
+      "calories": 260,
+      "caloriesFromFat": 90,
+      "details": [
+        {
+          "name": "Total Fat 10g",
+          "dv": "15%",
+          "sub": [
+            { "name": "Saturated Fat 3g", "dv": "15%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 20mg", "dv": "1%" },
+        {
+          "name": "Total Carbohydrate 37g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 5g", "dv": "20%" },
+            { "name": "Sugars 11g", "dv": "" },
+            { "name": "Total Sugars 0", "dv": "" }
+          ]
+        },
+        { "name": "Protein 5g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "0%" },
+        { "name": "Iron", "dv": "10%" },
+        { "name": "Calcium", "dv": "4%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Crispix Breakfast Cereal",
+    "weight": "12 oz",
+    "price": "$3.58",
+    "description": "Greet your day with a bowl of Kellogg\u001as Crispix, the delicious breakfast cereal that features the light and puffy crispiness of rice on one side and the satisfying crunch of corn on the other. A light and tasty day-starter with just a hint of sweetness, Crispix Cereal is perfect for making a splash in your preferred milk, enjoying straight from the box, or as a crunchy addition to your favorite homemade snack mixes. Made to energize the start of your day, each serving of Crispix Cereal contains 8  vitamins and minerals. No matter how you enjoy it, Kellogg's Crispix Cereal is a delicious addition to your daily breakfast routine. - An irresistibly crispy, crunchy corn and rice cereal with just a hint of sweetnes - With the crispiness of rice on one side and the crunch of corn on the other, Crispix cereal is a delightfully delicious way to greet the day - A good source of 8 vitamins and minerals;  Low fat; A fun part of any balanced breakfast - Enjoy with your preferred milk or as a delicious addition to your favorite snack mixes - Convenient, ready to eat cereal packaged in an 12-ounce box; packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000118697",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 12",
+      "servingSize": "1.00 cup(29g)",
+      "calories": 110,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0g",
+          "dv": "0%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 190mg", "dv": "8%" },
+        { "name": "Potassium 20mg", "dv": "1%" },
+        {
+          "name": "Total Carbohydrate 25g",
+          "dv": "8%",
+          "sub": [
+            { "name": "Dietary Fiber 0g", "dv": "0%" },
+            { "name": "Total Sugars 5g", "dv": "" },
+            { "name": "Sugars 4g", "dv": "" }
+          ]
+        },
+        {
+          "name": "Protein 2g",
+          "dv": "",
+          "sub": [{ "name": "Includes Added Sugars 5g", "dv": "10%" }]
+        }
+      ],
+      "vitamins": [
+        { "name": "Iron", "dv": "45%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "70%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Vitamin B6", "dv": "35%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Vitamin B12", "dv": "30%" },
+        { "name": "Niacin", "dv": "35%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Folate", "dv": "50%" },
+        { "name": "Thiamin", "dv": "35%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills French Toast Crunch Cereal",
+    "weight": "11.1 oz",
+    "price": "$3.04",
+    "description": "Enjoy tiny French toasts coated in sweet cinnamon-and-syrup goodness. This cereal is big on taste and packs a crunch.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001829170",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 8",
+      "servingSize": "1.00 cup",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 180mg", "dv": "8%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 32g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 1g", "dv": "5%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "4%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Iron", "dv": "20%" },
+        { "name": "Magnesium", "dv": "4%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Folate", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "Kind Healthy Grains Oats & Honey Clusters with Toasted Coconut Granola",
+    "weight": "11 oz",
+    "price": "$4.64",
+    "description": "Give breakfast a crunch with Kind Oats and Honey Clusters. Oats, buckwheat, millet, amaranth, and quinoa come together in delicious bite-sized clusters that are topped with toasted coconut. A touch of honey and this granola is good to go.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001542688",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "0.33 cup(65g)",
+      "calories": 120,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 3g",
+          "dv": "4%",
+          "sub": [
+            { "name": "Saturated Fat 1g", "dv": "5%" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 1g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 25mg", "dv": "1%" },
+        { "name": "Potassium 75mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 21g",
+          "dv": "8%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 5g", "dv": "" },
+            { "name": "Added Sugars 5g", "dv": "10%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Low Sodium", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Iron", "dv": "6%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Calcium", "dv": "2%" },
+        { "name": "Kosher", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Kind Healthy Grains Peanut Butter Whole Grain Clusters Granola",
+    "weight": "11 oz",
+    "price": "$4.64",
+    "description": "Get nutty! Peanut butter and roasted peanuts are added to Kind\u001as super grain blend for a smooth, nut taste. Pop them into a bowl with milk, on top of a smoothie, or even by the handful.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001529761",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 5",
+      "servingSize": "0.33 cup(30g)",
+      "calories": 120,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 2g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 55mg", "dv": "2%" },
+        { "name": "Potassium 87mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 17g",
+          "dv": "6%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 5g", "dv": "" },
+            { "name": "Added Sugars 5g", "dv": "10%" }
+          ]
+        },
+        { "name": "Protein 5g", "dv": "5%" }
+      ],
+      "vitamins": [
+        { "name": "Calcium", "dv": "2%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Iron", "dv": "6%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Frosted Flakes Breakfast Cereal With Marshmallows",
+    "weight": "12 oz",
+    "price": "$3.07",
+    "description": "Start your day off the right way with Tony the Tiger and Kellogg's Frosted Flakes with Marshmallows. This deliciously crafted cereal has naturally vanilla-flavored marshmallow treats with fun Tony shapes like power paw, sporty scarf, sweet swirl and even Tony himself. You can let your gr-r-reat out with every crunchy spoonful. Created for the whole family, this cereal is a tasty way to energize your day. Each bowl of crispy frosted corn flakes delivers a frosted spark of sweetness in every bite. Delicious and fat-free, each serving is a good source of 7 vitamins and minerals. Add your favorite milk and enjoy a bowl at breakfast time, put some in the kids\u001a backpacks to snack on at school or in the car, or just enjoy a handful straight from the box. The entire family will enjoy every mouthful of Kellogg's Frosted Flakes Cereal with Marshmallows. - Start your morning off right with the classically crunchy taste of frosted corn flakes; A delicious golden corn cereal with sweet frosting and marshmallows in every bite - Let your gr-r-reat out; Treat your family to this delicious cereal that's perfect for both kids and adults - A good source of 7 vitamins and minerals; Fat free; A fun part of any complete breakfast - Enjoy with your favorite milk or as a tasty snack at work, after school, or late night treat - Convenient, ready to eat cereal packaged in a 12-ounce box; Packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002180920",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 8",
+      "servingSize": "1.25 cup",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "0g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Polyunsaturated Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "220mg" },
+        { "name": "Potassium", "dv": "40mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "36g",
+          "sub": [{ "name": "Dietary Fiber", "dv": "<1g" }]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "30%" },
+        { "name": "Vitamin D", "dv": "8%" },
+        { "name": "Folate", "dv": "25%" },
+        { "name": "Niacin", "dv": "15%" },
+        { "name": "Vitamin B12", "dv": "15%" },
+        { "name": "Vitamin B6", "dv": "15%" },
+        { "name": "Riboflavin", "dv": "15%" },
+        { "name": "Thiamin", "dv": "15%" },
+        { "name": "Folic Acid", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Honey-Smacks Breakfast Cereal",
+    "weight": "15.3 oz",
+    "price": "$3.27",
+    "description": "A cereal you can dig, Kellogg's Honey Smacks makes for an indulgent treat. Each piece of puffed wheat has been enhanced with the delicious taste of honey, making Kellogg's Honey Smacks a great way to satisfy your sweet tooth. This wholesome cereal is crafted to help bring energy to your mornings with whole grain and no high fructose corn syrup. Not just for mornings, Kellogg's Honey Smacks is a tasty addition to any meal or snack any time of the day. Enjoy as a well-deserved treat at the office, take in an afternoon pick-me-up, reenergize with a post-workout bite, and indulge in a late-night bowlful of sweet, crunchy cereal. Kellogg's Honey Smacks also makes a scrumptious addition to homemade trail or party mix; the delicious options are endless. A travel-ready food, this cereal is perfect to pack in lunchboxes, for after-school snacks, sporting events, and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the box. - Delicious, sweetened, puffed-wheat breakfast cereal made with honey; Enjoy by the bowlful with your favorite milk - A crisp, family-favorite cereal perfect for both kids and adults; Crafted to help bring energy and smiles to your day - Made with whole grain; No high fructose corn syrup; A fun part of any balanced breakfast; Kosher Pareve - Pack some in a baggie for backpacks and lunchboxes; Stow some in your tote bag, car, and desk for anytime snacking - Includes 1, 15.3-ounce box of ready-to-eat Honey Smacks Cereal; Packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000118675",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 16",
+      "servingSize": "0.75 cup(27g)",
+      "calories": 100,
+      "caloriesFromFat": 5,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "0.5g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Polyunsaturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "40mg" },
+        { "name": "Potassium", "dv": "50mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "24g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "1g" },
+            { "name": "Sugars", "dv": "15g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "2%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Folic Acid", "dv": "25%" }
+      ]
+    }
+  },
+  {
+    "name": "Hill Country Fare Honey & Nut Toasted Oats Cereal",
+    "weight": "32 oz",
+    "price": "$3.61",
+    "description": "Hill Country Fare Honey & Nut Toasted O's is sweetened toasted oat cereal which provides 10 essential vitamins and minerals!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000125665",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 23",
+      "servingSize": "1 cup (40g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0.5g",
+          "dv": "1%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 230mg", "dv": "10%" },
+        { "name": "Potassium 200mg", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 34g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 3g", "dv": "11%" },
+            { "name": "Total Sugars 13g", "dv": "" },
+            { "name": "Added Sugars 13g", "dv": "26%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "35%" },
+        { "name": "Vitamin D", "dv": "2%" },
+        { "name": "Vitamin B6", "dv": "35%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Magnesium", "dv": "6%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Folate DFE", "dv": "90%" },
+        { "name": "Vitamin B12", "dv": "50%" },
+        { "name": "Thiamin", "dv": "8%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Phosphorus", "dv": "10%" },
+        { "name": "Calcium", "dv": "8%" },
+        { "name": "Zinc", "dv": "35%" }
+      ]
+    }
+  },
+  {
+    "name": "Hill Country Fare Fruit & Frosted Rings Cereal",
+    "weight": "32 oz",
+    "price": "$3.86",
+    "description": "Hill Country Fare Fruit & Frosted Rings cereal is a sweetened multigrain cereal that provides 10 essential vitamins and minerals!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000126106",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 23",
+      "servingSize": "1 1/4 cups (40g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0g",
+          "dv": "0%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 100mg", "dv": "4%" },
+        { "name": "Potassium 30mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 35g",
+          "dv": "13%",
+          "sub": [
+            { "name": "Dietary Fiber 0g", "dv": "2%" },
+            { "name": "Total Sugars 19g", "dv": "" },
+            { "name": "Added Sugars 19g", "dv": "38%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin B6", "dv": "30%" },
+        { "name": "Folate DFE", "dv": "90%" },
+        { "name": "Calcium", "dv": "8%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Thiamin", "dv": "30%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "15%" },
+        { "name": "Vitamin A", "dv": "25%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Zinc", "dv": "35%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Vitamin B12", "dv": "60%" }
+      ]
+    }
+  },
+  {
+    "name": "Hill Country Fare Co-Co Krunch Cereal",
+    "weight": "32 oz",
+    "price": "$3.68",
+    "description": "Hill Country Fare Co-Co Krunch is sweetened rice cereal with real cocoa which provides 11 essential vitamins and minerals!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000535452",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 23",
+      "servingSize": "1 cup (40g)",
+      "calories": 160,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0.5g",
+          "dv": "1%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 230mg", "dv": "10%" },
+        { "name": "Potassium 70mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 36g",
+          "dv": "13%",
+          "sub": [
+            { "name": "Dietary Fiber 0g", "dv": "0%" },
+            { "name": "Total Sugars 17g", "dv": "" },
+            { "name": "Added Sugars 17g", "dv": "34%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Thiamin", "dv": "30%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Copper", "dv": "6%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "30%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "2%" },
+        { "name": "Folate DFE", "dv": "80%" },
+        { "name": "Vitamin A", "dv": "25%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Vitamin B12", "dv": "60%" },
+        { "name": "Magnesium", "dv": "2%" },
+        { "name": "Zinc", "dv": "15%" }
+      ]
+    }
+  },
+  {
+    "name": "Hill Country Fare Berry Crunch Cereal",
+    "weight": "32 oz",
+    "price": "$4.07",
+    "description": "Hill Country Fare Berry Crunch is sweetened corn and oat cereal which provides 9 essential vitamins and minerals!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000127854",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 22",
+      "servingSize": "1 1/4 cups (42g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0.5g",
+          "dv": "1%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 260mg", "dv": "11%" },
+        { "name": "Potassium 30mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 38g",
+          "dv": "14%",
+          "sub": [
+            { "name": "Dietary Fiber 1g", "dv": "3%" },
+            { "name": "Total Sugars 18g", "dv": "" },
+            { "name": "Added Sugars 18g", "dv": "36%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Vitamin B6", "dv": "30%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate DFE", "dv": "45%" },
+        { "name": "Vitamin A", "dv": "15%" },
+        { "name": "Thiamin", "dv": "30%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Apple Jacks Breakfast Cereal in a Cup",
+    "weight": "1.5 oz",
+    "price": "$0.99",
+    "description": "Start your day with Kellogg's Apple Jacks Cereal and the crunch of lightly sweetened multigrain O's with the flavor of crisp apples and cinnamon. A healthy, low-fat cereal made with three delicious grains, Apple Jacks is a good source of fiber, provides 11 grams of whole grain, and is an excellent source of 8 vitamins and minerals. Individually sized and conveniently packaged, Apple Jacks Cereal Cups are an ideal companion for lunch boxes, after-school snacks, and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the cup.    - Includes 1, 1.5-ounce single-serve cup of ready-to-eat Apple Jacks cereal; Individually packaged for freshness and great taste; Just peel the lid and add milk    - Start your morning with the crunch of lightly sweetened multigrain O's and the flavor of crisp apples and cinnamon; A fun part of any balanced breakfast    - Excellent source of 8 vitamins and minerals; Good source of fiber; Low fat; 16 grams of whole grain per serving; Ingredients contain wheat; Corn used in this product may contain traces of soy    - A classic, family-favorite cereal that's perfect for both kids and adults; Makes a delicious cold breakfast at home or school, midday bite at work, and after-dinner treat    - A travel-ready food; Great for backpacks and lunchboxes; Stow in your tote bag, car, and desk for anytime snacking; Comes in a disposable cup; No clean up required",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001411710",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 160,
+      "caloriesFromFat": 15,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "1.5g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "1g" },
+            { "name": "Trans Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "220mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "37g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "4g" },
+            { "name": "Sugars", "dv": "14g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "35%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "35%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "35%" },
+        { "name": "Vitamin B12", "dv": "35%" },
+        { "name": "Vitamin B6", "dv": "35%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Thiamin", "dv": "35%" },
+        { "name": "Folic Acid", "dv": "35%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Froot Loops Breakfast Cereal in a Cup",
+    "weight": "1.5 oz",
+    "price": "$0.99",
+    "description": "A fun part of any complete breakfast and bursting with fruity flavor, Kellogg's Froot Loops is a delicious, sweetened cereal made with whole grains. An excellent source of 8 vitamins and minerals and a good source of fiber, Froot Loops is also low in fat. Made to help bring energy to your mornings, our colorful cold cereal makes for a tasty pick-me-up at school or work, as an afternoon bite, or late night treat. Individually sized and conveniently packaged, Kellogg's Froot Loops Cereal Cups are an ideal companion for lunch boxes, after-school snacks, and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the cup.    - Includes 1, 1.5-ounce cup of single-serve ready-to-eat Froot Loops Cereal; Individually packaged for freshness and great taste    - Bursting with fruity flavor, Kellogg's Froot Loops is a delicious, sweetened cereal made with whole grains; A fun part of any balanced breakfast    - Excellent source of 8 vitamins and minerals; Good source of fiber; 16 grams of whole grain per serving; Low Fat; Ingredients contain wheat; Corn used in this product may contain traces of soy    - A classic, family-favorite cereal that's perfect for both kids and adults; Makes a delicious cold breakfast at home or school, midday bite at work, and after-dinner treat    - Conveniently packaged and ready to travel; Great for backpacks and lunchboxes; Stow in your tote bag, car, and desk for anytime snacking",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001411699",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 150,
+      "caloriesFromFat": 15,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "1.5g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "1g" },
+            { "name": "Trans Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "220mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "37g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "5g" },
+            { "name": "Sugars", "dv": "14g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "35%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "35%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "35%" },
+        { "name": "Vitamin B12", "dv": "35%" },
+        { "name": "Vitamin B6", "dv": "35%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Thiamin", "dv": "35%" },
+        { "name": "Folic Acid", "dv": "35%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Frosted Flakes Breakfast Cereal",
+    "weight": "2.1 oz",
+    "price": "$0.99",
+    "description": "Start your day off right with Tony the Tiger and Kellogg's Frosted Flakes - a deliciously crafted cereal that helps you let your gr-r-reat out with every crunchy spoonful. Conveniently packaged in a milk-ready cup for a scrumptious start to your day, each yummy, fat-free serving of crispy frosted corn flakes delivers a spark of sweetness in each and every bite. Each individually packaged cup also contains 10 vitamins and minerals to energize your morning. Whether you enjoy a cup at breakfast time, snack on it at school, or enjoy as an anytime treat, Kellogg's Frosted Flakes Cereal brings the sparkle with every mouthful. - Irresistibly crunchy and deliciously sweet; enjoy the satisfying crunch of golden corn flakes with a sparkle of sweet frosting - Start your morning off right with the classically crunchy taste of frosted corn flakes; a delicious golden corn cereal with a hint of sweet frosting in every bite - A good source of 10 vitamins and minerals; fat-free; a fun part of any balanced breakfast - A fat-free cereal that's sure to help you let your grrreat out; enjoy with your favorite milk for an extra sweet taste or as a tasty snack at work, after school, or late night treat - Convenient, ready to eat cereal packaged in an individually sized 2.1-ounce cup; packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001411687",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 220,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "0g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "310mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "53g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "1g" },
+            { "name": "Sugars", "dv": "21g" }
+          ]
+        },
+        { "name": "Protein", "dv": "3g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "20%" },
+        { "name": "Vitamin C", "dv": "20%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "50%" },
+        { "name": "Vitamin D", "dv": "20%" },
+        { "name": "Niacin", "dv": "50%" },
+        { "name": "Vitamin B12", "dv": "50%" },
+        { "name": "Vitamin B6", "dv": "50%" },
+        { "name": "Riboflavin", "dv": "50%" },
+        { "name": "Thiamin", "dv": "50%" },
+        { "name": "Folic Acid", "dv": "50%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Corn Pops Breakfast Cereal in a Cup",
+    "weight": "1.5 oz",
+    "price": "$0.99",
+    "description": "A sweet, crispy, crunchy way to start your day, Kellogg\u001as Corn Pops Cereal makes for a light and delicious cold breakfast any day of the week. A healthy, energy-providing cereal, Corn Pops is an excellent source of 6 vitamins and minerals. Individually sized and conveniently packaged, Kellogg\u001as Corn Pops Cereal Cups are an ideal companion for lunch boxes, after-school snacks, and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the cup. - Includes 1, 1.5-ounce cup of single-serve ready-to-eat Corn Pops Cereal; Individually packaged for freshness and great taste; Just peel the lid and add milk - A sweet, crispy, crunchy way to start your day, lightly sweetened Kellogg\u001as Corn Pops Cereal is a fun part of any balanced breakfast - Excellent source of 6 Vitamins and Minerals; Ingredients contain wheat; Corn used in this product may contain traces of soy - A classic, family-favorite cereal that's perfect for both kids and adults; Makes a delicious cold breakfast at home or school, midday bite at work, and after-dinner treat - A travel-ready food; Great for backpacks and lunchboxes; Stow in your tote bag, car, and desk for anytime snacking; Comes in a disposable cup; No clean up required",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001411713",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 160,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "0.5g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "00" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "00" },
+        { "name": "Sodium", "dv": "150mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "38g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "0g" },
+            { "name": "Sugars", "dv": "13g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "35%" },
+        { "name": "Vitamin B12", "dv": "35%" },
+        { "name": "Vitamin B6", "dv": "35%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "35%" },
+        { "name": "Thiamin", "dv": "35%" },
+        { "name": "Folic Acid", "dv": "35%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Rice Krispies Breakfast Cereal Cup",
+    "weight": "1.3 oz",
+    "price": "$0.99",
+    "description": "Crispy rice cereal with the classic toasty taste you know and love in a portable, single serving cup; pop the top, pour over your favorite milk and hear the magic as they snap, crackle and pop - Lightly sweetened and toasted for a delicious, crunchy bite in every satisfying spoonful; perfect on its own or with your favorite fruit like bananas, strawberries or blueberries - Crispy rice cereal with the classic toasty taste you know and love in a portable, single serving cup; pop the top, pour over your favorite milk and hear the magic as they snap, crackle and pop - Good source of 11 Vitamins and Minerals;  A fun part of any balanced breakfast - A fat free, healthy cereal that's sure to please the whole family - Convenient, ready to eat cereal that comes in a disposable 1.3 ounce cup with no mess or clean up required; a quick and easy meal or snack on the go",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001940547",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "0g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "210mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "33g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "0g" },
+            { "name": "Sugars", "dv": "4g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "25%" },
+        { "name": "Vitamin C", "dv": "25%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "50%" },
+        { "name": "Vitamin D", "dv": "15%" },
+        { "name": "Vitamin E", "dv": "25%" },
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Folic Acid", "dv": "50%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Cinnamon Toast Crunch Cereal Cup",
+    "weight": "2 oz",
+    "price": "$1.03",
+    "description": "Crispy, sweetened whole wheat & rice cereal. Real cinnamon & sugar in every delicious bite.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001586864",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 230,
+      "caloriesFromFat": 50,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "6g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "1g" },
+            { "name": "Polyunsaturated Fat", "dv": "2g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "3g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "330mg" },
+        { "name": "Potassium", "dv": "100mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "45g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "3g" },
+            { "name": "Sugars", "dv": "17g" }
+          ]
+        },
+        { "name": "Protein", "dv": "3g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "20%" },
+        { "name": "Vitamin C", "dv": "20%" },
+        { "name": "Calcium", "dv": "20%" },
+        { "name": "Iron", "dv": "45%" },
+        { "name": "Vitamin D", "dv": "20%" },
+        { "name": "Niacin", "dv": "45%" },
+        { "name": "Vitamin B12", "dv": "45%" },
+        { "name": "Vitamin B6", "dv": "45%" },
+        { "name": "Zinc", "dv": "45%" },
+        { "name": "Riboflavin", "dv": "45%" },
+        { "name": "Thiamin", "dv": "45%" },
+        { "name": "Folic Acid", "dv": "45%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Honey Nut Cheerios Cereal Cup",
+    "weight": "1.8 oz",
+    "price": "$1.03",
+    "description": "Sweetened whole grain oat cereal with real honey & natural almond flavor.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001586865",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 190,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 2.5g",
+          "dv": "3%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 290mg", "dv": "13%" },
+        { "name": "Potassium 0", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 41g",
+          "dv": "15%",
+          "sub": [
+            { "name": "Dietary Fiber 4g", "dv": "14%" },
+            { "name": "Soluble Fiber <1g", "dv": "" },
+            { "name": "Total Sugars 17g", "dv": "" },
+            { "name": "Added Sugars 17g", "dv": "34%" }
+          ]
+        },
+        { "name": "Protein 4g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Magnesium", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "15%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Folate", "dv": "25%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Zinc", "dv": "25%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Gluten Free", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Nature's Path Organic Honey Almond Granola with Chia Seeds",
+    "weight": "11 oz",
+    "price": "$4.82",
+    "description": "Give your taste buds a buzz. Gluten-free whole grain oats are coated with organic clover honey and a burst of crunchy Californian almonds for a truly scrumptious snack. Shake on to yogurt or eat straight from the bag.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001674422",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 10",
+      "servingSize": "0.33 cup",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4.5g",
+          "dv": "6%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 3g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 65mg", "dv": "3%" },
+        { "name": "Potassium 90mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 21g",
+          "dv": "8%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 7g", "dv": "" },
+            { "name": "Added Sugars 6g", "dv": "12%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Organic", "dv": "0%" },
+        { "name": "Iron", "dv": "4%" }
+      ]
+    }
+  },
+  {
+    "name": "Nature's Path Organic Love Crunch Dark Chocolate & Red Berries Granola",
+    "weight": "11.5 oz",
+    "price": "$3.32",
+    "description": "Have a love for Dark Chocolate Chunks and tangy berries? How about a thing for premium granola that's also packed with whole grains and 0 grams trans fat per serving. Well, then, this'll be love at first bite.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001574596",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 10",
+      "servingSize": "0.25 cup(30g)",
+      "calories": 140,
+      "caloriesFromFat": 55,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "6g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "1g" },
+            { "name": "Polyunsaturated Fat", "dv": "3g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "1.5g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "55mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "20g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "2g" },
+            { "name": "Sugars", "dv": "6g" }
+          ]
+        },
+        { "name": "Protein", "dv": "2g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "2%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "4%" }
+      ]
+    }
+  },
+  {
+    "name": "Kashi Breakfast Cereal Cinnamon Harvest",
+    "weight": "16.3 oz",
+    "price": "$2.82",
+    "description": "Kashi Cinnamon Harvest Whole Wheat Biscuits are made with real cinnamon to give our crispy wheat biscuits a warm, light spice. Tasty, toasty and organic, too. Woven into the center of our organic wheat biscuits is a fusion of organic cane sugar and warm, spicy organic cinnamon. Baked together, these crunchy bite-sized biscuits will kindle your senses and satisfy your healthy side. With the goodness of over 20% of your daily fiber (7g fiber and 1g total fat per 61g serving) and an entire day\u001as worth of the recommended level of whole grains (52g whole grains per 61g serving), what's not to love? Cinnamon Harvest combines organic whole wheat biscuits and spicy organic cinnamon for a delectable and nutritious breakfast that you might want to enjoy even after dinner time. - For a satisfying start to any morning, Kashi Breakfast Cereals are wholesome and made with delicious plant-based ingredients - Crunchy bite-sized biscuits made with woven whole grain wheat sweetened with organic cane sugar and a hint of cinnamon - One serving supplies 52g of whole grains, 7g fiber, 1g total fat per 61g serving; Low fat; Kosher Pareve - Tastes great with dairy or nut milk, yogurt, fresh fruit or by itself as a snack at home, work, or school - Includes 1, 16.3-ounce box packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000896975",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 180,
+      "caloriesFromFat": 10,
+      "details": [
+        {
+          "name": "Total Fat 1g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 0mg", "dv": "0%" },
+        { "name": "Potassium 170mg", "dv": "5%" },
+        {
+          "name": "Total Carbohydrate 43g",
+          "dv": "14%",
+          "sub": [
+            { "name": "Dietary Fiber 5g", "dv": "24%" },
+            { "name": "Soluble Fiber 1g", "dv": "" },
+            { "name": "Insoluble Fiber 4g", "dv": "" },
+            { "name": "Total Sugars 9g", "dv": "" },
+            { "name": "Sugars 9g", "dv": "" }
+          ]
+        },
+        {
+          "name": "Protein 6g",
+          "dv": "5%",
+          "sub": [{ "name": "Includes Added Sugars 9g", "dv": "18%" }]
+        }
+      ],
+      "vitamins": [
+        { "name": "Vitamin C", "dv": "0%" },
+        { "name": "Vitamin A", "dv": "0%" },
+        { "name": "Iron", "dv": "8%" },
+        { "name": "Thiamin", "dv": "15%" },
+        { "name": "Magnesium", "dv": "15%" },
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Post Great Grains Cranberry Almond Crunch Whole Grain Cereal",
+    "weight": "14 oz",
+    "price": "$3.48",
+    "description": "Great Grains® Cereal Cranberry Almond Crunch®. Crunchy clusters & flakes with sweet cranberries & scoops of wholesome almonds. Made with high quality ingredients. Naturally flavored with other natural flavor. Contains no high fructose corn syrup, artificial flavors or colors.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001544987",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 7",
+      "servingSize": "1.00 cup(56g)",
+      "calories": 210,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 3g",
+          "dv": "4%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 200mg", "dv": "9%" },
+        { "name": "Potassium 180mg", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 44g",
+          "dv": "16%",
+          "sub": [
+            { "name": "Dietary Fiber 5g", "dv": "19%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 10g", "dv": "21%" }
+          ]
+        },
+        { "name": "Protein 5g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "40%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Folate DFE", "dv": "50%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Magnesium", "dv": "10%" },
+        { "name": "Thiamin", "dv": "30%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Phosphorus", "dv": "15%" },
+        { "name": "Vitamin B6", "dv": "30%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Vitamin B12", "dv": "50%" },
+        { "name": "Riboflavin", "dv": "30%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Krave Breakfast Cereal Chocolate",
+    "weight": "11.4 oz",
+    "price": "$3.27",
+    "description": "Crafted for chocovores, Kellogg's Krave Chocolate breakfast cereal is a distinctly delicious combo of crunchy multigrain cereal shells and filling made with real chocolate. A good source of 7 vitamins and minerals and made with no high fructose corn syrup, Kellogg's Krave Chocolate breakfast cereal is a yummy way to start the day. Not just for breakfast, Kellogg's Krave is a tasty addition to any meal or snack any time of the day. Enjoy as a well-deserved snack at the office, take as an afternoon pick-me-up, reenergize with a post-workout treat, and indulge in a late-night bowlful of sweet, crunchy cereal. Kellogg's Krave Chocolate breakfast cereal also makes a scrumptious addition to homemade trail mix - the delicious options are endless. Pack some in a plastic bag for lunch boxes and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the box.    - Release your inner chocovore with crispy, multigrain cereal shells and filling made with real chocolate; A fun part of any balanced breakfast    - A classic, family-favorite cereal that's perfect for both kids and adults; Makes a delicious cold breakfast at home or school, midday bite at work and after-dinner treat    - Good source of 7 vitamins and minerals; 14 grams of whole grain per 41 gram serving; No high fructose corn syrup; Contains milk, soy and wheat ingredients    - Pack some in a plastic bag for backpacks and lunchboxes; Stow some in your tote bag and desk for anytime snacking    - Includes 1, 11.4-ounce box of ready-to-eat Kellogg's Krave Chocolate breakfast cereal; Packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001525276",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 7",
+      "servingSize": "1.00 cup(41g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4.5g",
+          "dv": "6%",
+          "sub": [
+            { "name": "Saturated Fat 1g", "dv": "5%" },
+            { "name": "Polyunsaturated Fat 2.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 1g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 140mg", "dv": "6%" },
+        { "name": "Potassium 110mg", "dv": "" },
+        {
+          "name": "Total Carbohydrate 32g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "8%" },
+            { "name": "Total Sugars 15g", "dv": "" }
+          ]
+        },
+        {
+          "name": "Protein 3g",
+          "dv": "",
+          "sub": [{ "name": "Includes Added Sugars 14g", "dv": "28%" }]
+        }
+      ],
+      "vitamins": [
+        { "name": "Iron", "dv": "30%" },
+        { "name": "Folate", "dv": "10%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Pantothenic Acid", "dv": "10%" },
+        { "name": "Vitamin B6", "dv": "10%" },
+        { "name": "Niacin", "dv": "15%" },
+        { "name": "Thiamin", "dv": "60%" },
+        { "name": "Vitamin D", "dv": "6%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "Post Oh's Honey Graham Cereal",
+    "weight": "10.5 oz",
+    "price": "$2.45",
+    "description": "Try Honey Graham Oh's! Every bite blends the great taste of graham and real golden honey for a delicious start to the morning. Honey Graham Oh's also have 9 essential vitamins and minerals. Enjoy every spoonful! Oh's aren't just for breakfast!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001159887",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 7",
+      "servingSize": "1.00 cup(40g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 3g",
+          "dv": "4%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 240mg", "dv": "11%" },
+        { "name": "Potassium 50mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 34g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber <1g", "dv": "3%" },
+            { "name": "Total Sugars 17g", "dv": "" },
+            { "name": "Added Sugars 17g", "dv": "35%" }
+          ]
+        },
+        { "name": "Protein 1g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Vitamin B6", "dv": "15%" },
+        { "name": "Niacin", "dv": "15%" },
+        { "name": "Thiamin", "dv": "90%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "40%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Pantothenic Acid", "dv": "15%" },
+        { "name": "Phosphorus", "dv": "2%" },
+        { "name": "Zinc", "dv": "15%" },
+        { "name": "Folate DFE", "dv": "10%" }
+      ]
+    }
+  },
+  {
+    "name": "Cap'n Crunch Cereal",
+    "weight": "14 oz",
+    "price": "$2.76",
+    "description": "The original CRUNCH! You'll start your day with a smile when you enjoy a bowl of this great-tasting, crunchy sweetened corn and oat cereal. It's an excellent source of seven essential vitamins and minerals, is low in fat and has zero grams of trans fat per serving. Serve it with a lot fat milk and fresh fruit or a glass of 100% juice for a nutritious and easy-to-prepare breakfast.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000103573",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1.00 cup(38g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 2g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "4%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 290mg", "dv": "12%" },
+        { "name": "Potassium 50mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 33g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber <1g", "dv": "3%" },
+            { "name": "Total Sugars 17g", "dv": "" },
+            { "name": "Added Sugars 17g", "dv": "33%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate DFE", "dv": "50%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Niacin", "dv": "30%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Iron", "dv": "40%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin B6", "dv": "25%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Cereal Breakfast Pack",
+    "weight": "8 ct",
+    "price": "$3.38",
+    "description": "First Ingredient is Whole Grain. Breakfast pack includes: Lucky Charms, Honey Nut Cheerios, Cinnamon Toast Crunch, Golden Grahams, Cocoa Puffs, Frosted Cheerios, Cheerios, and Trix",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002179866",
+    "nutritionFacts": {
+      "servingsPerContainer": null,
+      "servingSize": "1",
+      "calories": 120,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 180mg", "dv": "8%" },
+        { "name": "Potassium 0", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 26g",
+          "dv": "9%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "8%" },
+            { "name": "Soluble Fiber <1g", "dv": "" },
+            { "name": "Total Sugars 11g", "dv": "" },
+            { "name": "Added Sugars 11g", "dv": "21%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Niacin", "dv": "8%" },
+        { "name": "Zinc", "dv": "15%" },
+        { "name": "Phosphorous", "dv": "8%" },
+        { "name": "Vitamin A", "dv": "8%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "8%" },
+        { "name": "Calcium", "dv": "8%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Thiamin", "dv": "15%" },
+        { "name": "Iron", "dv": "15%" },
+        { "name": "Vitamin D", "dv": "8%" },
+        { "name": "Vitamin B12", "dv": "15%" },
+        { "name": "Folate", "dv": "15%" },
+        { "name": "Riboflavin", "dv": "8%" },
+        { "name": "Magnesium", "dv": "8%" },
+        { "name": "Vitamin B6", "dv": "15%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Multi-Grain Cheerios Cereal",
+    "weight": "18 oz",
+    "price": "$3.75",
+    "description": "Our 5 whole grains are grown, milled, and toasted before being lightly sweetened and enhanced with extra vitamins & minerals, giving you more of the goodness you’re looking for in every spoonful.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001802038",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 13",
+      "servingSize": "1.33 cup(39g)",
+      "calories": 150,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 150mg", "dv": "7%" },
+        { "name": "Potassium 170mg", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 32g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 4g", "dv": "14%" },
+            { "name": "Total Sugars 8g", "dv": "" },
+            { "name": "Added Sugars 8g", "dv": "16%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Magnesium", "dv": "6%" },
+        { "name": "Vitamin B6", "dv": "100%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin B12", "dv": "100%" },
+        { "name": "Zinc", "dv": "100%" },
+        { "name": "Pantothenic Acid", "dv": "100%" },
+        { "name": "Folic Acid", "dv": "100%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Iron", "dv": "100%" },
+        { "name": "Phosphorus", "dv": "8%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Folate", "dv": "100%" },
+        { "name": "Niacin", "dv": "100%" },
+        { "name": "Riboflavin", "dv": "100%" },
+        { "name": "Thiamin", "dv": "100%" },
+        { "name": "Gluten Free", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Chocolate Chex Cereal",
+    "weight": "12.8 oz",
+    "price": "$3.58",
+    "description": "Chocolate Chex™ Cereal satisfies cravings at your earliest convenience with cocoa taste in every bite.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001049889",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 8",
+      "servingSize": "1.00 cup(43g)",
+      "calories": 180,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 3.5g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 270mg", "dv": "12%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 36g",
+          "dv": "13%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "5%" },
+            { "name": "Total Sugars 11g", "dv": "" },
+            { "name": "Added Sugars 11g", "dv": "22%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Phosphorous", "dv": "4%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Iron", "dv": "70%" },
+        { "name": "Magnesium", "dv": "4%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Thiamin", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Cinnamon Chex Cereal",
+    "weight": "12 oz",
+    "price": "$3.58",
+    "description": "A sweet dusting of real cinnamon and sugar flavors hug each gluten free crunchy, Cinnamon Chex™ Cereal square.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/001235497",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 8",
+      "servingSize": "1.00 cup(40g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 2.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 250mg", "dv": "11%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 33g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 8g", "dv": "" },
+            { "name": "Added Sugars 8g", "dv": "16%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Phosphorus", "dv": "4%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Iron", "dv": "60%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Magnesium", "dv": "4%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Niacin", "dv": "10%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Cocoa Krispies Breakfast Cereal",
+    "weight": "15.5 oz",
+    "price": "$3.38",
+    "description": "Bring a little magic to your mornings with the delicious taste of Kellogg's Cocoa Krispies Cereal. Made with real chocolate and crispy oven-toasted puffed rice cereal, Cocoa Krispies are a satisfying and healthy way to start your day. A good source of 8 vitamins and minerals, including Vitamin D, Cocoa Krispies are also low in fat. Crafted to help bring energy to your mornings, our chocolatey cold cereal makes for a tasty pick-me-up at school or work, as an afternoon bite, or late night treat. A travel-ready food, Kellogg's Cocoa Krispies are an ideal companion for lunchboxes, after-school snacks, and busy, on-the-go moments. Just add your favorite dairy or nut-milk or enjoy as a crispy treat straight from the box.    - A classic, family-favorite cereal that's perfect for both kids and adults; Makes a delicious cold breakfast at home or school, midday bite at work, after-dinner treat, and more    - A crisp, chocolatey way to start your day, Cocoa Krispies combines the classic crunch of puffed, oven-toasted rice cereal with real chocolate in every bite    - A healthy, low-free cereal with an excellent source of 7 vitamins and minerals, including Vitamin D, in every serving; Kosher Pareve    - A travel-ready food; Great for backpacks and lunchboxes; Stow some in your tote bag, car, and desk for anytime snacking    - Includes 1, 15.5-ounce box of ready-to-eat Kellogg's Cocoa Krispies Cereal; Packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000458208",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 14",
+      "servingSize": "0.75 cup(31g)",
+      "calories": 120,
+      "caloriesFromFat": 5,
+      "details": [
+        {
+          "name": "Total Fat",
+          "dv": "1g",
+          "sub": [
+            { "name": "Saturated Fat", "dv": "0.5g" },
+            { "name": "Polyunsaturated Fat", "dv": "0g" },
+            { "name": "Trans Fat", "dv": "0g" },
+            { "name": "Monounsaturated Fat", "dv": "0g" }
+          ]
+        },
+        { "name": "Cholesterol", "dv": "0mg" },
+        { "name": "Sodium", "dv": "120mg" },
+        { "name": "Potassium", "dv": "55mg" },
+        {
+          "name": "Total Carbohydrate",
+          "dv": "27g",
+          "sub": [
+            { "name": "Dietary Fiber", "dv": "0g" },
+            { "name": "Sugars", "dv": "12g" }
+          ]
+        },
+        { "name": "Protein", "dv": "1g" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "25%" },
+        { "name": "Vitamin C", "dv": "25%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Iron", "dv": "25%" },
+        { "name": "Vitamin D", "dv": "15%" },
+        { "name": "Vitamin E", "dv": "25%" },
+        { "name": "Niacin", "dv": "15%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Vitamin B6", "dv": "15%" },
+        { "name": "Riboflavin", "dv": "15%" },
+        { "name": "Thiamin", "dv": "15%" },
+        { "name": "Folic Acid", "dv": "25%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Honey Nut Chex Cereal",
+    "weight": "13.8 oz",
+    "price": "$3.58",
+    "description": "It’s bound to be a good morning with Honey Nut Chex™ Cereal, sweetened with a hint of honey and flavored with a touch of almond.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000032057",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 8",
+      "servingSize": "1.00 cup(43g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 270mg", "dv": "12%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 38g",
+          "dv": "14%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "6%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Phosphorous", "dv": "4%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Magnesium", "dv": "4%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Iron", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Reese's Puffs Cereal",
+    "weight": "16.7 oz",
+    "price": "$3.59",
+    "description": "Hershey's Cocoa & Reese's Peanut Butter sweet and crunchy corn puffs. This cereal contains 11g whole grain per serving.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000604398",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 12",
+      "servingSize": "1.00 cup(39g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4.5g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "4%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 2g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 210mg", "dv": "9%" },
+        { "name": "Potassium 90mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 30g",
+          "dv": "11%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Phosphorous", "dv": "8%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Magnesium", "dv": "0%" },
+        { "name": "Iron", "dv": "20%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Honey Nut Cheerios Cereal Giant Size",
+    "weight": "27.2 oz",
+    "price": "$4.68",
+    "description": "• Whole grain oats breakfast cereal    • Honey-flavored    • Gluten Free    • EACH serving is low in fat and can be a good source of    12 vitamins and minerals",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002076606",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 11",
+      "servingSize": "1.00 cup(37g)",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 2g",
+          "dv": "3%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 210mg", "dv": "9%" },
+        { "name": "Potassium 150mg", "dv": "4%" },
+        {
+          "name": "Total Carbohydrate 30g",
+          "dv": "11%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "10%" },
+            { "name": "Soluble Fiber 0g", "dv": "" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Phosphorus", "dv": "8%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Iron", "dv": "20%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Magnesium", "dv": "8%" },
+        { "name": "Gluten Free", "dv": "0%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Cinnamon Toast Crunch Cereal Giant Size",
+    "weight": "27 oz",
+    "price": "$4.68",
+    "description": "Made with real cinnamon-sparkly goodness, this cereal is so delicious you&#8217;ll want to crunch around the clock.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002076607",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 18",
+      "servingSize": "1.00 cup(41g)",
+      "calories": 170,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 4g",
+          "dv": "5%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Monounsaturated Fat 2.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 230mg", "dv": "10%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 33g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Magnesium", "dv": "6%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Phosphorus", "dv": "6%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Iron", "dv": "20%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Thiamin", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Lucky Charms Cereal",
+    "weight": "14.9 oz",
+    "price": "$3.59",
+    "description": "Lucky Charms Gluten Free Cereal 16 oz Box. Magically delicious Lucky Charms cereal features frosted oats and colored marshmallows. Made with whole grain, Lucky Charms is fortified with 12 vitamins and minerals, and is a good source of calcium. Frosted toasted oat cereal with marshmallows. Goodness first.",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000032034",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 11",
+      "servingSize": "1.00 cup(36g)",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 230mg", "dv": "10%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 30g",
+          "dv": "11%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Magnesium", "dv": "8%" },
+        { "name": "Zinc", "dv": "20%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "8%" },
+        { "name": "Iron", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Frosted Mini-Wheats Breakfast Cereal",
+    "weight": "18 oz",
+    "price": "$2.97",
+    "description": "Greet the day with Kellogg's Original Frosted Mini-Wheats - a wholesome, low fat breakfast cereal that's built for big days. These bite-size biscuits pack a hearty crunch with crispy layers of wheat made from 100% whole grain that are frosted with irresistible sweetness in every bite. With 48 grams of whole grain per 60 gram serving, these tasty squares are not only delicious but are an excellent source of fiber. Each satisfying serving contains a good source of 7 vitamins and minerals to help fuel you for what's ahead. Kellogg's Frosted Mini-Wheats make a nutritious, anytime meal or snack. Enjoy wheat bites throughout the day - as a well-deserved snack at the office, an afternoon pick-me-up, a post-workout treat, or a late-night bowlful of sweet, crunchy cereal. Frosted Mini-Wheats also make a scrumptious addition to homemade trail mix. A travel-ready food, this cereal is perfect to pack for lunchboxes, after-school snacks, sporting events, and busy, on-the-go moments. Kellogg's Original Frosted Mini-Wheats are a great start to your morning breakfast routine and for the adventures that follow. - Crunchy, bite-sized wheat biscuits with the irresistible taste of sweet frosting in every satisfying spoonful - Start your day off right with the fortifying goodness of wheat biscuits made with 100% whole grain and delicious frosting - With 48 grams of whole grain per 60 gram serving; Good source of 7 vitamins and minerals per serving; No artificial flavors or colors; No high fructose corn syrup; Contains wheat ingredients - A low fat, healthy cereal that's sure to please both kids and adults; Enjoy with or without your favorite milk; Makes a tasty snack at work, school, or as a late-night treat - Includes 1, 18-ounce box of delicious Frosted Mini-Wheats cereal; Convenient, ready-to-eat cereal packaged for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000118702",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 8",
+      "servingSize": "1",
+      "calories": 210,
+      "caloriesFromFat": 10,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 1g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 10mg", "dv": "0%" },
+        { "name": "Potassium 60mg", "dv": "2%" },
+        {
+          "name": "Total Carbohydrate 51g",
+          "dv": "19%",
+          "sub": [
+            { "name": "Dietary Fiber 6g", "dv": "21%" },
+            { "name": "Soluble Fiber <1g", "dv": "" },
+            { "name": "Insoluble Fiber 5g", "dv": "" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Sugars 11g", "dv": "" }
+          ]
+        },
+        {
+          "name": "Protein 5g",
+          "dv": "4%",
+          "sub": [{ "name": "Includes Added Sugars 12g", "dv": "24%" }]
+        }
+      ],
+      "vitamins": [
+        { "name": "Vitamin C", "dv": "0%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Folic Acid", "dv": "50%" },
+        { "name": "Folate ", "dv": "100%" },
+        { "name": "Phosphorous", "dv": "15%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "25%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Vitamin D", "dv": "0%" },
+        { "name": "Thiamin", "dv": "10%" },
+        { "name": "Copper", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "10%" },
+        { "name": "Iron", "dv": "100%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Zinc", "dv": "10%" },
+        { "name": "Magnesium", "dv": "10%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Lucky Charms Cereal Giant Size",
+    "weight": "26.1 oz",
+    "price": "$4.68",
+    "description": "Magically delicious Lucky Charms cereal features frosted oats and colored marshmallows. Whole Grain First Ingredient, 11g of whole grain per serving; Gluten Free",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002076570",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 20",
+      "servingSize": "1.00 cup(36g)",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 1.5g",
+          "dv": "2%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 230mg", "dv": "10%" },
+        { "name": "Potassium 0mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 30g",
+          "dv": "11%",
+          "sub": [
+            { "name": "Dietary Fiber 2g", "dv": "7%" },
+            { "name": "Total Sugars 12g", "dv": "" },
+            { "name": "Added Sugars 12g", "dv": "24%" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Iron", "dv": "20%" },
+        { "name": "Niacin", "dv": "10%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Phosphorus", "dv": "8%" },
+        { "name": "Vitamin B6", "dv": "20%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Magnesium", "dv": "8%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Riboflavin", "dv": "10%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Gluten Free", "dv": "0%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Zinc", "dv": "20%" }
+      ]
+    }
+  },
+  {
+    "name": "General Mills Cheerios Cereal Family Size",
+    "weight": "18 oz",
+    "price": "$3.75",
+    "description": "Cheerios has been a family favorite for years. Its wholesome goodness is perfect for toddlers to adults and everyone in between. Made from whole grain oats, and without artificial flavors or colors, they’re naturally low in fat and cholesterol free. These wholesome little “o’s” have only one gram of sugar!",
+    "img": "https://images.heb.com/is/image/HEBGrocery/000032021",
+    "nutritionFacts": {
+      "servingsPerContainer": "about 18",
+      "servingSize": "1.00 cup(21g)",
+      "calories": 100,
+      "caloriesFromFat": 15,
+      "details": [
+        {
+          "name": "Total Fat 2g",
+          "dv": "3%",
+          "sub": [
+            { "name": "Saturated Fat 0.5g", "dv": "3%" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Polyunsaturated Fat 0.5g", "dv": "" },
+            { "name": "Monounsaturated Fat 0.5g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 140mg", "dv": "6%" },
+        { "name": "Potassium 180mg", "dv": "5%" },
+        {
+          "name": "Total Carbohydrate 20g",
+          "dv": "7%",
+          "sub": [
+            { "name": "Dietary Fiber 3g", "dv": "11%" },
+            { "name": "Soluble Fiber 1g", "dv": "" },
+            { "name": "Total Sugars 2g", "dv": "" },
+            { "name": "Sugars 1g", "dv": "" },
+            { "name": "Added Sugars 2g", "dv": "4%" },
+            { "name": "Other Carbohydrate 16g", "dv": "" }
+          ]
+        },
+        { "name": "Protein 3g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Niacin", "dv": "25%" },
+        { "name": "Zinc", "dv": "25%" },
+        { "name": "Vitamin C", "dv": "10%" },
+        { "name": "Vitamin B6", "dv": "25%" },
+        { "name": "Folic Acid", "dv": "50%" },
+        { "name": "Vitamin A", "dv": "10%" },
+        { "name": "Thiamin", "dv": "25%" },
+        { "name": "Calcium", "dv": "10%" },
+        { "name": "Folate", "dv": "20%" },
+        { "name": "Iron", "dv": "45%" },
+        { "name": "Phosphorus", "dv": "10%" },
+        { "name": "Vitamin B12", "dv": "25%" },
+        { "name": "Riboflavin", "dv": "2%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Magnesium", "dv": "8%" }
+      ]
+    }
+  },
+  {
+    "name": "Kellogg's Frosted Flakes Breakfast Cereal",
+    "weight": "33.5 oz",
+    "price": "$5.13",
+    "description": "Start your day off right with Tony the Tiger and Kellogg's Frosted Flakes, a delicious cereal that helps you let your gr-r-reat out with every crunchy spoonful. Each satisfying serving contains an excellent source of 7 vitamins and minerals to help energize your morning. Not just for breakfast, Kellogg's Frosted Flakes is a tasty and nutritious addition to any meal or snack any time of the day. Enjoy as a snack at the office, take as an afternoon pick-me-up, reenergize with a post-workout treat, and indulge in a late-night bowlful of sweet, crunchy cereal. Kellogg's Frosted Flakes also makes a great addition to your favorite yogurt and or as the base for a homemade trail mix; the mouthwatering options are endless. A travel-ready food, Kellogg's Frosted Flakes is an ideal companion for lunchboxes and busy, on-the-go moments. Just add your favorite dairy or nut milk or enjoy as a crispy treat straight from the box. - Start your morning off right and enjoy the delicious taste of crunchy corn flakes with a sparkle of sweet frosting in every bite - Let your gr-r-reat out; Treat your family to this delicious cereal that's perfect for both kids and adults - A healthy, fat-free cereal with a good source of vitamin D and an excellent source of 7 vitamins and minerals in every 1 cup serving; Kosher Pareve - Enjoy with your favorite milk or as a tasty snack at work, after school, or late night treat - Convenient, ready-to-eat cereal packaged in a 33.5-ounce box for freshness and great taste",
+    "img": "https://images.heb.com/is/image/HEBGrocery/002556586",
+    "nutritionFacts": {
+      "servingsPerContainer": "About 24",
+      "servingSize": "1.00 cup(39g)",
+      "calories": 140,
+      "caloriesFromFat": 0,
+      "details": [
+        {
+          "name": "Total Fat 0g",
+          "dv": "0%",
+          "sub": [
+            { "name": "Saturated Fat 0g", "dv": "0%" },
+            { "name": "Polyunsaturated Fat 0g", "dv": "" },
+            { "name": "Trans Fat 0g", "dv": "" },
+            { "name": "Monounsaturated Fat 0g", "dv": "" }
+          ]
+        },
+        { "name": "Cholesterol 0mg", "dv": "0%" },
+        { "name": "Sodium 200mg", "dv": "9%" },
+        { "name": "Potassium 40mg", "dv": "0%" },
+        {
+          "name": "Total Carbohydrate 34g",
+          "dv": "12%",
+          "sub": [
+            { "name": "Dietary Fiber <1g", "dv": "3%" },
+            { "name": "Total Sugars 14g", "dv": "" },
+            { "name": "Added Sugars 14g", "dv": "28%" }
+          ]
+        },
+        { "name": "Protein 2g", "dv": "" }
+      ],
+      "vitamins": [
+        { "name": "Niacin", "dv": "20%" },
+        { "name": "Folic Acid", "dv": "0%" },
+        { "name": "Calcium", "dv": "0%" },
+        { "name": "Folate", "dv": "30%" },
+        { "name": "Iron", "dv": "40%" },
+        { "name": "Vitamin D", "dv": "10%" },
+        { "name": "Riboflavin", "dv": "20%" },
+        { "name": "Vitamin B12", "dv": "20%" },
+        { "name": "Thiamin", "dv": "20%" },
+        { "name": "Kosher", "dv": "0%" },
+        { "name": "Vitamin B6", "dv": "20%" }
+      ]
+    }
+  }
+]

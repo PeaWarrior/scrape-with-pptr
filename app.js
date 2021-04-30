@@ -14,10 +14,9 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
     });
     return links;
   });
-  // const cerealLinks = ['https://www.heb.com/product-detail/malt-o-meal-fruity-dyno-bites-cereal-super-size-/1219157']
+
   const cereals = [];
   for (link of cerealLinks) {
-    console.log(link)
     await page.goto(link, { waitUntil: 'networkidle2' });
     const data = await page.evaluate(() => {
       const cereal = {};
@@ -26,12 +25,11 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
       const weight = document.querySelector('div.packing-options').innerText.trim();
       const price = document.querySelector('span#addToCartPrice').innerText.trim();
       const description = document.querySelector('p').innerText.trim();
-      // general mills, kelloggs, malt o meal uses p tag for serving size
-      let servingsPerContainer;
-      let servingSize;
       const calorieDetails = document.querySelector('table.details-single').querySelectorAll('.val');
       const nutritionFactDetails = document.querySelector('table.details-xtd').children;
       const vitaminDetails = document.querySelector('table.vitamins > tbody').children;
+      let servingsPerContainer;
+      let servingSize;
       
       const calories = parseInt(calorieDetails[0].innerText);
       const caloriesFromFat = calorieDetails[1] ? parseInt(calorieDetails[1].innerText): 0;
@@ -60,27 +58,28 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
         };
       });
 
-      // const vitamins = [];
-      // vitaminDetails.forEach(node => {
-      //   const row = node.children;
-      //   if (name.includes('Malt-O-Meal')) {
-      //     const vitaminNodes = row.innerText.split('\t');
-      //     vitaminNodes.forEach(vit => {
-      //       const detail = {};
-      //       detail.name = vit.match(/[A-Z ]+/i);
-      //       detail.dv = vit.match(/\d+\%/);
-      //       vitamins.push(detail);
-      //     })
-      //   } else {
-      //     const vitamin = row[0].innerText.replace(/\s+/g, " ").trim();
-      //     const value = row[1].innerText.trim();
+      const vitamins = [];
+      let doubleColumn = false;
+      vitaminDetails.forEach(node => {
+        const row = node.children;
+        if (doubleColumn || row[0].innerText.includes('%')) {
+          doubleColumn = true;
+          row.forEach(vit => {
+            const detail = {};
+            detail.name = vit.innerText.match(/[A-Z]+ ?([\w\d]+)?/i)[0];
+            detail.dv = vit.innerText.match(/\d+\%/) ? vit.innerText.match(/\d+\%/)[0] : '0%';
+            vitamins.push(detail);
+          })
+        } else {
+          const vitamin = row[0].innerText.match(/[A-Z]+ ?([\w\d]+)?/i)[0];
+          const value = row[1].innerText.trim() || '0%';
   
-      //     const detail = {};
-      //     detail.name = vitamin;
-      //     detail.dv = value;
-      //     vitamins.push(detail);
-      //   }
-      // });
+          const detail = {};
+          detail.name = vitamin;
+          detail.dv = value;
+          vitamins.push(detail);
+        }
+      });
 
       cereal.name = name;
       cereal.weight = weight;
@@ -98,7 +97,7 @@ const URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/49
 
       return cereal;
     });
-    console.log(data)
+
     cereals.push(data);
   };
 
