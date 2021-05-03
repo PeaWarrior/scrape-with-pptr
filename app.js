@@ -42,7 +42,13 @@ let index = 0;
         const img = document.querySelector('img.pdp-mobile-image').src.split('?')[0];
         const weight = document.querySelector('div.packing-options').innerText.trim();
         const price = document.querySelector('span#addToCartPrice').innerText.trim();
-        const description = document.querySelector('p').innerText.trim();
+        const description = document.querySelector('p').childNodes[0].nodeValue.trim();
+        let ingredients;
+        document.querySelectorAll('span.clearfix').forEach(span => {
+          if (span.innerText === 'Ingredients') {
+            ingredients = span.parentElement.childNodes[2].nodeValue.trim();
+          }
+        })
 
         const table = document.querySelector('table');
         if (!table) return;
@@ -107,6 +113,7 @@ let index = 0;
         product.weight = weight;
         product.price = price;
         product.description = description;
+        product.ingredients = ingredients;
         product.img = img;
         product.nutritionFacts = {
           servingsPerContainer: servingsPerContainer ? servingsPerContainer[0].trim() : null,
@@ -123,6 +130,7 @@ let index = 0;
       if (data) {
         products.push(data);
         productType = data.category;
+        console.log(data.ingredients)
       };
     };
     fs.writeFile(`data/${productType}.json`, JSON.stringify(products), { flag: 'w' }, err => console.log(err));
