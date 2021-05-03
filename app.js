@@ -43,6 +43,7 @@ let index = 0;
         const size = document.querySelector('div.packing-options').innerText.trim();
         const price = parseInt(document.querySelector('span#addToCartPrice').innerText.match(/(?<=\$)[0-9.]+/)[0]*100);
         const description = document.querySelector('p').childNodes[0].nodeValue.trim();
+        const safetyWarning = document.querySelector('div.comment.more');
         let ingredients;
         document.querySelectorAll('span.clearfix').forEach(span => {
           if (span.innerText === 'Ingredients') {
@@ -114,6 +115,7 @@ let index = 0;
         product.price = price;
         product.description = description;
         product.ingredients = ingredients;
+        product.safetyWarning = safetyWarning ? safetyWarning.innerText.trim() : null;
         product.img = img;
         product.nutritionFacts = {
           servingsPerContainer: servingsPerContainer ? servingsPerContainer[0].trim() : null,
