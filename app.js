@@ -1,15 +1,17 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-let URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/490116/490560';
+const URLS = require('./constants');
+let URL = URLS[0];
+let index = 0;
 
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
+  let productType;
 
-  const cereals = [];
   while (URL) {
     await page.goto(URL, { waitUntil: 'networkidle2' });
-    const cerealLinks = await page.evaluate(() => {
+    const productLinks = await page.evaluate(() => {
       const links = [];
       const nodes = document.querySelectorAll('ul#productResults > li > a');
       nodes.forEach(node => {
@@ -22,13 +24,21 @@ let URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/4901
       const a = document.querySelector('[aria-label="go to next page"]');
       return a ? a.href : null;
     });
-    URL = nextPage ? nextPage : null;
+    if (nextPage) {
+      URL = nextPage;
+    } else {
+      ++index;
+      URL = URLS[index];
+    };
     
-    for (link of cerealLinks) {
+    const products = [];
+    for (link of productLinks) {
       await page.goto(link, { waitUntil: 'networkidle2' });
       const data = await page.evaluate(() => {
-        const cereal = {};
+        const product = {};
         const name = document.querySelector('h1').innerText.trim();
+        category = document.querySelectorAll('div.breadcrumb-parent-wrapper');
+        category = category[category.length-1].innerText.split(' ')[0];
         const img = document.querySelector('img.pdp-mobile-image').src.split('?')[0];
         const weight = document.querySelector('div.packing-options').innerText.trim();
         const price = document.querySelector('span#addToCartPrice').innerText.trim();
@@ -92,12 +102,13 @@ let URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/4901
           }
         });
   
-        cereal.name = name;
-        cereal.weight = weight;
-        cereal.price = price;
-        cereal.description = description;
-        cereal.img = img;
-        cereal.nutritionFacts = {
+        product.name = name;
+        product.category = category;
+        product.weight = weight;
+        product.price = price;
+        product.description = description;
+        product.img = img;
+        product.nutritionFacts = {
           servingsPerContainer: servingsPerContainer ? servingsPerContainer[0].trim() : null,
           servingSize: servingSize[0].trim() || null,
           calories: calories,
@@ -106,14 +117,17 @@ let URL = 'https://www.heb.com/category/shop/pantry/cereal-breakfast/cereal/4901
           vitamins: vitamins,
         };
   
-        return cereal;
+        return product;
       });
       
-      if (data) cereals.push(data);
+      if (data) {
+        products.push(data);
+        productType = data.category;
+      };
     };
+    fs.writeFile(`data/${productType}.json`, JSON.stringify(products), { flag: 'w' }, err => console.log(err));
   };
 
-  fs.writeFile('data.json', JSON.stringify(cereals), { flag: 'w' }, err => console.log(err));
 
   await browser.close();
 })();
