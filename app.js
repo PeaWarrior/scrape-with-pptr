@@ -15,7 +15,7 @@ let index = 0;
       const links = [];
       const nodes = document.querySelectorAll('ul#productResults > li > a');
       nodes.forEach(node => {
-        if (!node['href'].includes('h-e-b-') && !node['href'].includes('raisin-bran')) links.push(node['href']);
+        if (!node['href'].includes('h-e-b-')) links.push(node['href']);
       });
       return links;
     });
