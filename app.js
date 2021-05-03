@@ -40,8 +40,8 @@ let index = 0;
         category = document.querySelectorAll('div.breadcrumb-parent-wrapper');
         category = category[category.length-1].innerText.split(' ')[0];
         const img = document.querySelector('img.pdp-mobile-image').src.split('?')[0];
-        const weight = document.querySelector('div.packing-options').innerText.trim();
-        const price = parseInt(document.querySelector('span#addToCartPrice').innerText.match(/[0-9.]+/)[0]*100);
+        const size = document.querySelector('div.packing-options').innerText.trim();
+        const price = parseInt(document.querySelector('span#addToCartPrice').innerText.match(/(?<=\$)[0-9.]+/)[0]*100);
         const description = document.querySelector('p').childNodes[0].nodeValue.trim();
         let ingredients;
         document.querySelectorAll('span.clearfix').forEach(span => {
@@ -110,7 +110,7 @@ let index = 0;
   
         product.name = name;
         product.category = category;
-        product.weight = weight;
+        product.size = size;
         product.price = price;
         product.description = description;
         product.ingredients = ingredients;
